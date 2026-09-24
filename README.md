@@ -1,4 +1,4 @@
-<img width="1200" height="400" alt="Gcodexs 1" src="https://github.com/user-attachments/assets/44f6f9ff-a9a2-4e87-9f82-bf0e401dcc50" />
+<img width="1920" height="400" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/e14cdbb7-03fc-4a55-9f8a-8732cbad6aba" />
 
 Hi there, I'm Giovanni Vargas 👋
 
