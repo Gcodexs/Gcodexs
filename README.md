@@ -1,4 +1,5 @@
- <img width="2048" height="768" alt="ChatGPT Image 23 sept 2026, 11_37_23 p m" src="https://github.com/user-attachments/assets/768b830b-617d-4434-bb66-b15f8cf4de41" />
+<img width="1200" height="400" alt="Gcodexs 1" src="https://github.com/user-attachments/assets/44f6f9ff-a9a2-4e87-9f82-bf0e401dcc50" />
+
 Hi there, I'm Giovanni Vargas 👋
 
 I'm a **Frontend Developer** passionate about creating modern, clean, and highly responsive web experiences. I love solving problems through code and constantly learning new tools to build better software solutions.
