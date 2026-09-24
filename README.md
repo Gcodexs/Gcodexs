@@ -14,7 +14,7 @@ I'm a **Frontend Developer** passionate about creating modern, clean, and highly
 
 ### 📂 Featured Projects
 
-* ** (https://github.com)((https://github.com/Gcodexs/coworking-spaces))** - A modern web platform designed to showcase and manage shared workspaces, featuring fully responsive layouts.
+* ** ([Coworking Spaces](https://github.com)((https://github.com/Gcodexs/coworking-spaces))** - A modern web platform designed to showcase and manage shared workspaces, featuring fully responsive layouts.
 
 
 
