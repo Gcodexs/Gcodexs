@@ -1,4 +1,8 @@
 # Hi there, I'm Giovanni Vargas 👋
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN" alt="Banner de Portada" width="100%">
+</p>
+
 
 I'm a **Frontend Developer** passionate about creating modern, clean, and highly responsive web experiences. I love solving problems through code and constantly learning new tools to build better software solutions.
 
