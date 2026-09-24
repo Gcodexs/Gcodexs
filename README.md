@@ -2,7 +2,7 @@
 
 Hi there, I'm Giovanni Vargas 👋
 
-I'm a **Frontend Developer** passionate about creating modern, clean, and highly responsive web experiences. I love solving problems through code and constantly learning new tools to build better software solutions.
+Junior Web Developer in training, focused on web application development and continuously learning Full Stack technologies. Knowledgeable in HTML, CSS, JavaScript, Git, GitHub, and Visual Studio Code. Practice-oriented, with experience building and publishing projects while continuously strengthening programming and web development skills.
 
 ---
 
