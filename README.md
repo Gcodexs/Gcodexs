@@ -33,7 +33,6 @@ I'm a **Frontend Developer** passionate about creating modern, clean, and highly
 - 💬 Talk to me about Technology, Programming, AI, Data, Gaming, Memes and anything that interests you.
 - 🌱 I’m currently learning **Python, SQL, Git, Linux, Cloud Computing and Machine Learning**.
 
-### My skills include
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
