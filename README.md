@@ -19,5 +19,5 @@ I'm a **Frontend Developer** passionate about creating modern, clean, and highly
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** [://linkedin.com](https://linkedin.com) *(Asegúrate de cambiar este enlace después por tu link de perfil directo)*
+* **LinkedIn:**(https://www.linkedin.com/in/giovanni-vargas-a0471839b/)) *(Asegúrate de cambiar este enlace después por tu link de perfil directo)*
 * **Email:** [Giovanni.369x@gmail.com](mailto:Giovanni.369x@gmail.com)
