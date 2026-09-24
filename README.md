@@ -9,22 +9,6 @@ I'm a **Frontend Developer** passionate about creating modern, clean, and highly
 
 * 💻 **Frontend Development:** HTML5 | CSS3 | JavaScript (ES6) | React
 * ⚙️ **Tools & Platforms:** Git | GitHub | Visual Studio Code
-
-✨ **Frontend Development**
-<p align="left">
-  <img src="https://shields.io" alt="HTML5" height="28" />
-  <img src="https://shields.io" alt="CSS3" height="28" />
-  <img src="https://shields.io" alt="JavaScript" height="28" />
-  <img src="https://shields.io" alt="React" height="28" />
-</p>
-
-⚙️ **Tools & Platforms**
-<p align="left">
-  <img src="https://shields.io" alt="Git" height="28" />
-  <img src="https://shields.io" alt="GitHub" height="28" />
-  <img src="https://shields.io" alt="VS Code" height="28" />
-</p>
-
 ---
 
 ### 📂 Featured Projects
