@@ -1,3 +1,4 @@
+ <img width="2048" height="768" alt="ChatGPT Image 23 sept 2026, 11_37_23 p m" src="https://github.com/user-attachments/assets/768b830b-617d-4434-bb66-b15f8cf4de41" />
 # Hi there, I'm Giovanni Vargas 👋
 <p align="center">
   <img src="URL_DE_TU_IMAGEN" alt="Banner de Portada" width="100%">
