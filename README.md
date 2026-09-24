@@ -2,7 +2,7 @@
 
 Hi there, I'm Giovanni Vargas 👋
 
-Junior Web Developer in training, focused on web application development and continuously learning Full Stack technologies. Knowledgeable in HTML, CSS, JavaScript, Git, GitHub, and Visual Studio Code. Practice-oriented, with experience building and publishing projects while continuously strengthening programming and web development skills.
+Junior Web Developer , focused on web application development and continuously learning Full Stack technologies. Knowledgeable in HTML, CSS, JavaScript, Git, GitHub, and Visual Studio Code. Practice-oriented, with experience building and publishing projects while continuously strengthening programming and web development skills.
 
 ---
 
