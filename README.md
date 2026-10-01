@@ -9,6 +9,7 @@ Junior Web Developer , focused on web application development and continuously l
 ### 🛠️ Tech Stack & Tools
 
 * 💻 **Frontend Development:** HTML5 | CSS3 | JavaScript (ES6) | React
+* 💻 Backend Development: C# | .NET | SQLite
 * ⚙️ **Tools & Platforms:** Git | GitHub | Visual Studio Code
 ---
 
