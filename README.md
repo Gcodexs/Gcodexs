@@ -23,7 +23,7 @@ Junior Web Developer , focused on web application development and continuously l
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:**(https://www.linkedin.com/in/giovanni-vargas-a0471839b/) *(Asegúrate de cambiar este enlace después por tu link de perfil directo)*
+* **LinkedIn:** https://www.linkedin.com/in/giovanni-vargas-a0471839b/ *(Asegúrate de cambiar este enlace después por tu link de perfil directo)*
 * **Email:** [Giovanni.369x@gmail.com](mailto:Giovanni.369x@gmail.com)
 
 
