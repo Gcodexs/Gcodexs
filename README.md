@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 <img width="1920" height="400" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/7b4afdf1-47be-4901-b7fa-fdb863985a8b" />
 
 ### 🚀 Software Developer | Programming & Technology
