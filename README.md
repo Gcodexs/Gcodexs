@@ -26,10 +26,9 @@ I work with programming languages, web technologies, databases, APIs, version co
 *   **⚙️ IDEs & Editors:** Visual Studio 2022 / 2026 | Visual Studio Code
 *   **🔧 Tools & Platforms:** Git | GitHub | Terminal / Consola de Comandos
 
-### 🤝 Connect with Me
-
 <hr>
 
+### 🤝 Connect with Me
 <p align="center">
    <i>A problem can be solved in many different ways, and there's always an easier way to solve it.</i>
    <br>
