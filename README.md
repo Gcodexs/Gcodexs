@@ -1,8 +1,10 @@
-<img width="1920" height="400" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/e14cdbb7-03fc-4a55-9f8a-8732cbad6aba" />
+# Hi there, I'm Giovanni Vargas 👋
 
-Hi there, I'm Giovanni Vargas 👋
+### 🚀 Software Developer | Programming & Technology
 
-Junior Web Developer , focused on web application development and continuously learning Full Stack technologies. Knowledgeable in HTML, CSS, JavaScript, Git, GitHub, and Visual Studio Code. Practice-oriented, with experience building and publishing projects while continuously strengthening programming and web development skills.
+focused on learning, building, and improving software solutions through programming and practical development. 
+
+I work with programming languages, web technologies, databases, APIs, version control, and development tools, while continuously expanding my knowledge through hands-on projects and experimentation. 
 
 ---
 
