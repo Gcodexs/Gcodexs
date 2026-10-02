@@ -21,8 +21,27 @@ Junior Web Developer , focused on web application development and continuously l
 
 ### 🤝 Connect with Me
 
-* **LinkedIn:** https://www.linkedin.com/in/giovanni-vargas-a0471839b/ *(Asegúrate de cambiar este enlace después por tu link de perfil directo)*
-* **Email:** [Giovanni.369x@gmail.com](mailto:Giovanni.369x@gmail.com)
+<hr>
+
+<p align="center">
+   <i>A problem can be solved in many different ways, and there's always an easier way to solve it.</i>
+   <br>
+   <i>Every expert was once a beginner.</i>
+   <br>
+   <br>
+
+   <a target="_blank" href="https://www.linkedin.com/in/giovanni-vargas-a0471839b/">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+   </a>
+
+   <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=Giovanni.369x@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+   </a>
+
+   <br>
+</p>
+
+
 
 
 - ⚡ **Fun fact:** I believe that every problem has more than one possible solution, and sometimes the simplest solution is the one we discover by exploring and learning.
