@@ -8,9 +8,12 @@ Junior Web Developer , focused on web application development and continuously l
 
 ### 🛠️ Tech Stack & Tools
 
-* 💻 **Frontend Development:** HTML5 | CSS3 | JavaScript (ES6) | React
-* 💻 **Backend Development:**  C# | .NET | SQLite
-* ⚙️ **Tools & Platforms:** Git | GitHub | Visual Studio Code
+*   **💻 Frontend Development:** HTML5 | CSS3 | Python | JavaScript (ES6) | React
+*   **💻 Backend Development:** C# (.NET 10.0) | Web API | POO (Programación Orientada a Objetos)
+*   **🗄️ Databases & Persistence:** SQLite | SQL Server | Consultas SQL (DML / DDL)
+*   **⚙️ IDEs & Editors:** Visual Studio 2022 / 2026 | Visual Studio Code
+*   **🔧 Tools & Platforms:** Git | GitHub | Terminal / Consola de Comandos
+
 ---
 ### 📁 Featured Projects
 
