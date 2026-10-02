@@ -65,6 +65,7 @@ Junior Web Developer , focused on web application development and continuously l
 </p>
 
 <!--
+
 **Giovanni-Vargas/Giovanni-Vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -78,25 +79,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>
-
-<p align="center">
-   <i>A problem can be solved in many different ways, and there's always an easier way to solve it.</i>
-   <br>
-   <i>Every expert was once a beginner.</i>
-   <br>
-   <br>
-
-   <a target="_blank" href="https://www.linkedin.com/in/giovanni-vargas-a0471839b/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-   </a>
-
-   <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=Giovanni.369x@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
-   </a>
-
-   <br>
-</p>
 
 -----
