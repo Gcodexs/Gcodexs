@@ -18,7 +18,7 @@ I work with programming languages, web technologies, databases, APIs, version co
 *   **🔧 Tools & Platforms:** Git | GitHub | Terminal / Consola de Comandos
 
 ---
-### 📁 Featured Projects
+💻 Programming Development & Evolution
 
 * [User Authentication System](https://github.com/Gcodexs/user-auth-system) - A secure and reliable backend system built as a .NET application focused on user registration, login, and data protection.
 * [SQL Base de Datos](https://github.com/Gcodexs/Sql-Base-de-datos-) - A repository tracking my learning journey with relational databases, SQL scripts, and data persistence using C# and SQLite.
