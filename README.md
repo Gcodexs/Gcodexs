@@ -5,7 +5,8 @@
 
 focused on learning, building, and improving software solutions through programming and practical development. 
 
-I work with programming languages, web technologies, databases, APIs, version control, and development tools, while continuously expanding my knowledge through hands-on projects and experimentation. 
+I work with programming languages, web technologies, databases, APIs, version control, and development tools, while continuously expanding my knowledge through hands-on projects and experimentation.
+
 ---
 💻 Programming Development & Evolution
 
