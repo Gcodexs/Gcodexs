@@ -12,9 +12,6 @@ Junior Web Developer , focused on web application development and continuously l
 * 💻 **Backend Development:**  C# | .NET | SQLite
 * ⚙️ **Tools & Platforms:** Git | GitHub | Visual Studio Code
 ---
-
-### 📂 Featured Projects
-
 ### 📁 Featured Projects
 
 * [User Authentication System](https://github.com/Gcodexs/user-auth-system) - A secure and reliable backend system built as a .NET application focused on user registration, login, and data protection.
