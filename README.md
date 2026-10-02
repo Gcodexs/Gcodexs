@@ -6,7 +6,13 @@
 focused on learning, building, and improving software solutions through programming and practical development. 
 
 I work with programming languages, web technologies, databases, APIs, version control, and development tools, while continuously expanding my knowledge through hands-on projects and experimentation. 
+---
+💻 Programming Development & Evolution
 
+* [User Identity System](https://github.com/Gcodexs/User-Identity-System.git) - A practical project focused on user authentication, identity management, and data persistence using **C#, .NET, and SQLite**.
+* [SQL Base de Datos](https://github.com/Gcodexs/Sql-Base-de-datos-) - A repository tracking my learning journey with relational databases, SQL scripts, and data persistence using C# and SQLite.
+* [new-beginning](https://github.com/Gcodexs/new-beginning
+) - A modern web platform designed to showcase and manage shared workspaces, featuring fully responsive layouts.
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -16,15 +22,6 @@ I work with programming languages, web technologies, databases, APIs, version co
 *   **🗄️ Databases & Persistence:** SQLite | SQL Server | Consultas SQL (DML / DDL)
 *   **⚙️ IDEs & Editors:** Visual Studio 2022 / 2026 | Visual Studio Code
 *   **🔧 Tools & Platforms:** Git | GitHub | Terminal / Consola de Comandos
-
----
-💻 Programming Development & Evolution
-
-* [User Identity System](https://github.com/Gcodexs/User-Identity-System.git) - A practical project focused on user authentication, identity management, and data persistence using **C#, .NET, and SQLite**.
-* [SQL Base de Datos](https://github.com/Gcodexs/Sql-Base-de-datos-) - A repository tracking my learning journey with relational databases, SQL scripts, and data persistence using C# and SQLite.
-* [new-beginning](https://github.com/Gcodexs/new-beginning
-) - A modern web platform designed to showcase and manage shared workspaces, featuring fully responsive layouts.
----
 
 ### 🤝 Connect with Me
 
