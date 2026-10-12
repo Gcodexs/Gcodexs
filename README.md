@@ -1,5 +1,6 @@
 # Hi 👋
-<img width="1920" height="400" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/7b4afdf1-47be-4901-b7fa-fdb863985a8b" />
+<img width="1584" height="396" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/253c21a0-9d51-4d4a-a965-3d3b532b86d7" />
+
 
 ### 🚀 Software Developer | Programming & Technology
 
