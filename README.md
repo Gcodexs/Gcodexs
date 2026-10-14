@@ -19,14 +19,6 @@ I work with programming languages, web technologies, databases, APIs, version co
 * [03-ECommerce-System](https://github.com/Gcodexs/03-ECommerce-System.git) - C#/.NET backend project integrating ASP.NET Core, Entity Framework Core, and SQL Server. Implements REST API concepts, CRUD operations, LINQ queries, database migrations, and dependency injection for relational data management.
 
 ---
-🛠️ Technology Stack & Software Development Environment
-
-- **Frontend Development:** HTML5 | CSS3 | JavaScript (ES6+) | React
-- **Backend Development:** C# | .NET | ASP.NET Core Web API | Object-Oriented Programming (OOP)
-- **Database Management:** SQL Server | SQLite | SQL (DDL / DML) | Data Persistence
-- **Development Environments:** Visual Studio | Visual Studio Code
-- **Version Control & Collaboration:** Git | GitHub | Branching Strategies | Repository Management
-- **Command-Line Tools:** Git Bash | Windows Command Prompt | PowerShell
 
 ### 🤝 Connect with Me
 <p align="center">
@@ -46,9 +38,6 @@ I work with programming languages, web technologies, databases, APIs, version co
 
    <br>
 </p>
-
-
-
 
 ⚡ Fun fact: I believe that every problem has more than one possible solution, and sometimes the simplest solution is the one we discover by exploring and learning.
 - 🔭 I’m currently working on:
