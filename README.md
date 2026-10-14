@@ -3,7 +3,7 @@
 
 **Junior Software Developer | Python · JavaScript · C# · .NET**
 
-developer focused on backend development, APIs, and database management.
+Developer focused on backend development, APIs, and database management.
 
 Building practical projects with Python, JavaScript, C#/.NET, and SQL. Passionate about problem-solving, writing clean code, and continuously improving my development skills through hands-on projects.
 
