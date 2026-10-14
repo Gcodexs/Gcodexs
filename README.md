@@ -1,7 +1,7 @@
     # Hi👋  
 <img width="1584" height="396" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/253c21a0-9d51-4d4a-a965-3d3b532b86d7" />
 
-🚀 **Junior Software Developer | Python · JavaScript · C# · .NET**
+**Junior Software Developer | Python · JavaScript · C# · .NET**
 
 developer focused on backend development, APIs, and database management.
 
