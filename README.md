@@ -1,4 +1,6 @@
 # Hi  
+<img width="1584" height="396" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/253c21a0-9d51-4d4a-a965-3d3b532b86d7" />
+
 ### 🚀 Software Developer | Programming & Technology
 
 focused on learning, building, and improving software solutions through programming and practical development. 
@@ -17,9 +19,6 @@ I work with programming languages, web technologies, databases, APIs, version co
 * [03-ECommerce-System](https://github.com/Gcodexs/03-ECommerce-System.git) - C#/.NET backend project integrating ASP.NET Core, Entity Framework Core, and SQL Server. Implements REST API concepts, CRUD operations, LINQ queries, database migrations, and dependency injection for relational data management.
 
 ---
-
-<img width="1584" height="396" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/253c21a0-9d51-4d4a-a965-3d3b532b86d7" />
-
 🛠️ Technology Stack & Software Development Environment
 
 - **Frontend Development:** HTML5 | CSS3 | JavaScript (ES6+) | React
