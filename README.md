@@ -1,11 +1,11 @@
     # Hi👋  
 <img width="1584" height="396" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/253c21a0-9d51-4d4a-a965-3d3b532b86d7" />
 
-### 🚀 Software Developer | Programming & Technology
+🚀 **Junior Software Developer | Python · JavaScript · C# · .NET**
 
-focused on learning, building, and improving software solutions through programming and practical development. 
+Aspiring software developer focused on backend development, APIs, and database management.
 
-I work with programming languages, web technologies, databases, APIs, version control, and development tools, while continuously expanding my knowledge through hands-on projects and experimentation.
+Building practical projects with Python, JavaScript, C#/.NET, and SQL. Passionate about problem-solving, writing clean code, and continuously improving my development skills through hands-on projects.
 
 ---
 💻 Programming Development & Evolution
