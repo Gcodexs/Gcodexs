@@ -13,7 +13,7 @@ I work with programming languages, web technologies, databases, APIs, version co
 
 * [Evolution Programming](https://github.com/Gcodexs/Evolution-programming) - Evolution Programming - A comprehensive project exploring advanced programming concepts, design patterns, and algorithmic problem-solving in C# and .NET.
   
-* [01 SQL-Database-main](https://github.com/Gcodexs/01-SQL-Database-main.git)) - A repository with relational databases, SQL scripts, and data persistence using C# and SQLite.
+* 01 SQL-Database-main(https://github.com/Gcodexs/01-SQL-Database-main.git)) - A repository with relational databases, SQL scripts, and data persistence using C# and SQLite.
   
 * [User Identity System](https://github.com/Gcodexs/User-Identity-System.git) - A practical project focused on user authentication, identity management, and data persistence using **C#, .NET, and SQLite**.
 
