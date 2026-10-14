@@ -50,15 +50,14 @@ I work with programming languages, web technologies, databases, APIs, version co
 
 
 
-- ⚡ **Fun fact:** I believe that every problem has more than one possible solution, and sometimes the simplest solution is the one we discover by exploring and learning.
+⚡ Fun fact: I believe that every problem has more than one possible solution, and sometimes the simplest solution is the one we discover by exploring and learning.
 - 🔭 I’m currently working on:
-	- Python programming projects
-	- SQL and database projects
-	- Technology and data-related projects
-- 💡 I'm interested in all things technology: **Software Development, Data, Cloud, Machine Learning and Artificial Intelligence**
+  - Python programming projects
+  - SQL and database projects
+  - Technology and data-related projects
+- 💡 I'm interested in all things technology: Software Development, Data, Cloud, Machine Learning and Artificial Intelligence
 - 💬 Talk to me about Technology, Programming, AI, Data, Gaming, Memes and anything that interests you.
-- 🌱 I’m currently learning **Python, SQL, Git, Linux, Cloud Computing and Machine Learning**.
-
+- 🌱 I’m currently learning Python, SQL, Git, Linux, Cloud Computing and Machine Learning.
 
 <p align="center">
 		<img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
