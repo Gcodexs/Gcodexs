@@ -21,13 +21,6 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
   <i>
     A problem can be solved in many different ways, and there's always an easier way to solve it.<br>
     Every challenge is an opportunity to learn and develop new skills.
-
-	  <a target="_blank" href="https://www.linkedin.com/in/giovanni-vargas-a0471839b/">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-   </a>
-
-   <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=Giovanni.369x@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </i>
 </p>
    <br>
