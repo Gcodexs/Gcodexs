@@ -17,7 +17,9 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 ---
 ### 🤝 Connect with Me
 <p align="center">
-   <i>A problem can be solved in many different ways, and there's always an easier way to solve it.</i>
+   <i>A problem can be solved in many different ways, and there's always an easier way to solve it.
+                Every challenge is an opportunity to learn and develop new skills.
+   </i>
    <br>
    <br>
    <br>
@@ -29,7 +31,6 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=Giovanni.369x@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
 	   
-Every challenge is an opportunity to learn and develop new skills.
 <img width="1920" height="1080" alt="comenzar_" src="https://github.com/user-attachments/assets/d8fe5ddf-91ee-478d-88da-2dc37cb5b14d" />
    </a>
 
