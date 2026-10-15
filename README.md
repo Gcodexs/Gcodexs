@@ -15,14 +15,10 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 * [03-ECommerce-System](https://github.com/Gcodexs/03-ECommerce-System.git) - C#/.NET backend project integrating ASP.NET Core, Entity Framework Core, and SQL Server. Implements REST API concepts, CRUD operations, LINQ queries, database migrations, and dependency injection for relational data management.
 
 ---
-Every challenge is an opportunity to learn and develop new skills.
-<img width="1920" height="1080" alt="comenzar_" src="https://github.com/user-attachments/assets/d8fe5ddf-91ee-478d-88da-2dc37cb5b14d" />
----
 ### 🤝 Connect with Me
 <p align="center">
    <i>A problem can be solved in many different ways, and there's always an easier way to solve it.</i>
    <br>
-   <i>Every expert was once a beginner.</i>
    <br>
    <br>
 
@@ -32,6 +28,10 @@ Every challenge is an opportunity to learn and develop new skills.
 
    <a target="_blank" href="https://mail.google.com/mail/?view=cm&fs=1&to=Giovanni.369x@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+---
+Every challenge is an opportunity to learn and develop new skills.
+<img width="1920" height="1080" alt="comenzar_" src="https://github.com/user-attachments/assets/d8fe5ddf-91ee-478d-88da-2dc37cb5b14d" />
+	   ---
    </a>
 
    <br>
