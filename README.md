@@ -19,7 +19,7 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 <p align="center">
    <i>A problem can be solved in many different ways, and there's always an easier way to solve it.
 	   
- Every challenge is an opportunity to learn and develop new skills.   </i>
+             Every challenge is an opportunity to learn and develop new skills.   </i>
    <br>
    <br>
    <br>
