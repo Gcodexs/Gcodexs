@@ -23,10 +23,6 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
     Every challenge is an opportunity to learn and develop new skills.
   </i>
 </p>
-   <br>
-   <br>
-   <br>
-   
 <p align="center">
    <a target="_blank" href="https://www.linkedin.com/in/giovanni-vargas-a0471839b/">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
