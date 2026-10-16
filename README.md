@@ -13,6 +13,11 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 * [DotNet-Financial-Tracker](https://github.com/Gcodexs/DotNet-Financial-Tracker.git) -application showcasing a decoupled architecture with a React frontend, .NET 10 Web API backend, and SQLite database integration.
 
 * [03-ECommerce-System](https://github.com/Gcodexs/03-ECommerce-System.git) - C#/.NET backend project integrating ASP.NET Core, Entity Framework Core, and SQL Server. Implements REST API concepts, CRUD operations, LINQ queries, database migrations, and dependency injection for relational data management.
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gcadexs&layout=compact&theme=tokyonight)
 
 ---
 ### 🤝 Connect with Me
