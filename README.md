@@ -14,13 +14,6 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 
 * [03-ECommerce-System](https://github.com/Gcodexs/03-ECommerce-System.git) - C#/.NET backend project integrating ASP.NET Core, Entity Framework Core, and SQL Server. Implements REST API concepts, CRUD operations, LINQ queries, database migrations, and dependency injection for relational data management.
 ---
-
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gcadexs&layout=compact&stats_format=percentages&langs_count=10)
-
----
 ### 🤝 Connect with Me
 
 <p align="center">
