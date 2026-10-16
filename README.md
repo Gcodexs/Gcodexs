@@ -46,6 +46,8 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
   <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDoubleB&layout=compact&theme=tokyonight&hide_border=false" height="250" />
+
 <!--
 
 **Giovanni-Vargas/Giovanni-Vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
