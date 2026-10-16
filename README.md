@@ -36,6 +36,7 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
    <br>
 </p>
 <p align="center">
+	<img title="Visual Studio 2026" alt="Visual Studio 2026" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Visual_Studio_Icon_2026.svg" width="45" height="45" />
   <img title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
   <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
   <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
@@ -44,7 +45,6 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
   <img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
   <img title="Linux" alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" />
 </p>
-```
 
 <!--
 
