@@ -35,7 +35,6 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 
    <br>
 </p>
-```html
 <p align="center">
   <img title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
   <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
