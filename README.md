@@ -8,7 +8,7 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 ---
 💻 Programming Development & Evolution
 
-
+* [Evolution Programming](https://github.com/Gcodexs/Evolution-programming.git) - Evolution Programming - A comprehensive project exploring advanced programming concepts, design patterns, and algorithmic problem-solving in C# and .NET.
 
 * [03-ECommerce-System](https://github.com/Gcodexs/03-ECommerce-System.git) - C#/.NET backend project integrating ASP.NET Core, Entity Framework Core, and SQL Server. Implements REST API concepts, CRUD operations, LINQ queries, database migrations, and dependency injection for relational data management.
 ---
