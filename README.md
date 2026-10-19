@@ -1,5 +1,7 @@
     # Hi👋  
-<img width="1584" height="396" alt="Gcodexs 2" src="https://github.com/user-attachments/assets/253c21a0-9d51-4d4a-a965-3d3b532b86d7" />
+	<p align="center">
+	<img width="1584" height="396" alt="AI" src="https://github.com/user-attachments/assets/57f61557-942a-4ca9-b713-720c7a8aa27d" />
+    </p>
 
 **Junior Software Developer | Python · JavaScript · C# · .NET**
 
@@ -8,7 +10,7 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 ---
 💻 Programming Development & Evolution
 
-<p align="center">
+
 <img width="1584" height="396" alt="Development" src="https://github.com/user-attachments/assets/80eab7b6-17fd-413b-ae77-8dcb35a59edb" />
 </p>
 
