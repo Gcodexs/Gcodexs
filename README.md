@@ -8,6 +8,10 @@ Developer focused building practical projects with Python, JavaScript, C#/.NET, 
 ---
 💻 Programming Development & Evolution
 
+<p align="center">
+<img width="1584" height="396" alt="Development" src="https://github.com/user-attachments/assets/80eab7b6-17fd-413b-ae77-8dcb35a59edb" />
+</p>
+
 [Software-Development](https://github.com/Gcodexs/Software-Development) A collection of projects showcasing technical skills, problem-solving, and continuous learning across different technologies and areas of software development.
   
 ---
