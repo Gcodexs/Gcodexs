@@ -1,8 +1,5 @@
     # Hi👋  
-	
-	<p align="center">
-	<img width="1584" height="396" alt="AI" src="https://github.com/user-attachments/assets/57f61557-942a-4ca9-b713-720c7a8aa27d" />
-    </p>
+<img width="1584" height="396" alt="AI" src="https://github.com/user-attachments/assets/12edd0f4-fc1a-48f5-a750-7cd753bd44bb" />
 
 **Junior Software Developer | Python · JavaScript · C# · .NET**
 
