@@ -1,7 +1,7 @@
     # Hi👋  
 <img width="1584" height="396" alt="AI" src="https://github.com/user-attachments/assets/12edd0f4-fc1a-48f5-a750-7cd753bd44bb" />
 
-**Junior Software Developer | Python · JavaScript · C# · .NET**
+**Software Developer | Python · JavaScript · C# · .NET**
 
 Developer focused building practical projects with Python, JavaScript, C#/.NET, and SQL. Passionate about problem-solving, writing clean code, and continuously improving my development skills through hands-on projects.
 
